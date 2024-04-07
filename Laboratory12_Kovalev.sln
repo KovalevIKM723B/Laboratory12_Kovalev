@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Laboratory12_Kovalev", "Laboratory12_Kovalev\Laboratory12_Kovalev.vcxproj", "{AF8D0280-C36C-4EBF-8887-4CF015F1BB0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF8D0280-C36C-4EBF-8887-4CF015F1BB0C}.Debug|x64.ActiveCfg = Debug|x64
+		{AF8D0280-C36C-4EBF-8887-4CF015F1BB0C}.Debug|x64.Build.0 = Debug|x64
+		{AF8D0280-C36C-4EBF-8887-4CF015F1BB0C}.Debug|x86.ActiveCfg = Debug|Win32
+		{AF8D0280-C36C-4EBF-8887-4CF015F1BB0C}.Debug|x86.Build.0 = Debug|Win32
+		{AF8D0280-C36C-4EBF-8887-4CF015F1BB0C}.Release|x64.ActiveCfg = Release|x64
+		{AF8D0280-C36C-4EBF-8887-4CF015F1BB0C}.Release|x64.Build.0 = Release|x64
+		{AF8D0280-C36C-4EBF-8887-4CF015F1BB0C}.Release|x86.ActiveCfg = Release|Win32
+		{AF8D0280-C36C-4EBF-8887-4CF015F1BB0C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D72B8683-76A7-4431-AC96-D3920D1712F8}
+	EndGlobalSection
+EndGlobal
